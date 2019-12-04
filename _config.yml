@@ -15,7 +15,7 @@ include:
 author:
   name      : "PLASM 2020"
   avatar    : "/assets/face.svg"
-  bio       : "Workshop on People in Language, viSion and Mind. This workshop is dedicated to multimodal approaches to describing people in terms of their bodies and faces."
+  bio       : "Workshop on *P*eople in *L*anguage, vi*S*ion and *M*ind. This workshop is dedicated to multimodal approaches to describing people in terms of their bodies and faces."
   location  : "Marseille, France"
 
 defaults:
